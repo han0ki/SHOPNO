@@ -1,0 +1,83 @@
+#headers img {
+	padding: 79px 120px;
+    margin-top: -19px;
+    position: relative;
+  background-position: center center;
+  background-size:  cover;
+background-attachment: ;
+  background-repeat: no-repeat;
+  overflow: auto;
+ 
+}
+
+#headers{
+background-image: url('../img/fon.png');
+height: 700px;
+}
+.right{
+	padding: 82px;
+}
+#headers p{
+	text-align: center;
+	font-family: 'Staatliches', cursive;
+	font-size:50px;
+	box-shadow: 20px;
+}
+
+.about{
+background-color:grey;
+height: 900px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ @media only screen and (max-width: 500px) {
+#headers img{
+        margin-left: -94px;
+    margin-top: -55px;
+ }
+ .right{
+    margin-top: -189px;
+ }
+}
+
+
