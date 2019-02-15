@@ -25,17 +25,34 @@ height: 700px;
 }
 
 .about{
-background-color:grey;
+background-color:white;
 height: 900px;
-
-
-
 }
 
+.indicators{
+  display: none;
+}
 
+.amazing{
+  width: 39%;
+float: right;
+text-align: justify;
+margin: 0px 80px;
+}
+.spanone{
+  font-family: 'Staatliches', cursive;
+  font-size:30px;text-align: justify;
+float: left;
+}
 
+.amazing span{
 
-
+float: right;
+text-align: justify;
+  }
+.slider{
+  margin: 0 80px;
+}
 
 
 
